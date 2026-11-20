@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ruilin Chen
 
-<!--
-**crl1351429189-jpg/crl1351429189-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI application engineer — LLM applications, agents, RAG.
 
-Here are some ideas to get you started:
+Two years building enterprise LLM systems end to end: design, code, test,
+release, and production support. Currently working on after-sales AI agents
+for cross-border e-commerce sellers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: Python, FastAPI, LangGraph, MCP, Milvus, Redis, Docker, CI/CD.
+
+Code for client projects is not public — it belongs to my employer.
+Happy to walk through architecture and trade-offs in an interview.
+
+Shenzhen, China · crl1351429189@gmail.com
